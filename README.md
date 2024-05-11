@@ -1,4 +1,4 @@
-# ALittleStory
+# ALittleStory 
 python
 
 with open ("story.txt" , "r") as f:
