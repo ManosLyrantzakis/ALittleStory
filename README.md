@@ -29,4 +29,13 @@ for word in words:
     story = story.replace(word, answers[word])
 
 print(story)
-    
+
+
+TXT FILE UNDER THE PROJECT
+
+Once upon a time in a <place>, there was  <name> with the <name2>.
+This <gender> had always dreamed of becoming a famous <occupation>.
+One day, while walking through a <place>, <name> found a <color> <object> and decided to <analyze> it. 
+The <relation> felt so <emotion> and <emotion2>. 
+From that day on <name> and <name2> became known as a <occupation>. 
+People from all over the <place> came to see the amazing <occupation> and hear its <famous> stories.
